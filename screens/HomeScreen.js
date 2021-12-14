@@ -49,28 +49,28 @@ const HomeScreen = (props) => {
       <View style={styles.item}>
         <Text>See useImperativeHandle Example</Text>
         <CustomButton
-          onPress={() => onPress("UseStateExample")}
+          onPress={() => onPress("UseImperativeHandleExample")}
           title="See Example"
         />
       </View>
       <View style={styles.item}>
         <Text>See useContext Example</Text>
         <CustomButton
-          onPress={() => onPress("UseStateExample")}
+          onPress={() => onPress("UseContextExample")}
           title="See Example"
         />
       </View>
       <View style={styles.item}>
         <Text>See useMemo Example</Text>
         <CustomButton
-          onPress={() => onPress("UseStateExample")}
+          onPress={() => onPress("UseMemoExample")}
           title="See Example"
         />
       </View>
       <View style={styles.item}>
         <Text>See useCallback Example</Text>
         <CustomButton
-          onPress={() => onPress("UseStateExample")}
+          onPress={() => onPress("UseCallbackExample")}
           title="See Example"
         />
       </View>

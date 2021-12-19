@@ -9,10 +9,10 @@ These are the hooks that included:
 - useRef
 - useEffect
 - useLayoutEffect
-- useImperativeHandle (WIP)
-- useContext (WIP)
-- useMemo (WIP)
-- useCallback (WIP)
+- useImperativeHandle
+- useContext
+- useMemo
+- useCallback
 
 This examples are based on a YouTube video on [PedroTech](https://www.youtube.com/watch?v=LlvBzyy-558). The code is translated to React Native component since the examples in the video uses ReactJs.
 
